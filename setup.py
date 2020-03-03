@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="ealex3@yahoo.com",
     description="test package",
     long_description=long_description,
-    long_description_content_type="text/markdown",
+    long_description_content_type="test package",
     url="https://github.com/hadescoder19/python-package",
     packages=setuptools.find_packages(),
     classifiers=[
